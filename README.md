@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game Developement
 - 🌱 I’m currently learning C# & Ren'Py
 - 💞️ I’m looking to collaborate on Games
-- 📫 How to reach me kowaga. on discord
+- 📫 How to reach me: kowaga. on discord
 - 😄 Pronouns: She/They
 - ⚡ Fun fact: am gae
 
